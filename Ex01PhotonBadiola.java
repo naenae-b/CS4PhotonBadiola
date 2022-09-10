@@ -30,11 +30,11 @@ public class Ex01PhotonBadiolaJava {
         Byte legsChr3 = 2; //number of legs on chair
         
         
-        System.out.print("Chair 1\nChair name: " + chair1 + "\n" + "Stability of chair: " + stableChr1 + "\nNumber of legs: " + legsChr1);
+        System.out.print("Chair 1\nChair name: " + chair1 + "\nStability of chair: " + stableChr1 + "\nNumber of legs: " + legsChr1);
         
-        System.out.print("\n\nChair 2\nChair name: " + chair2 + "\n" + "Stability of chair: " + stableChr2 + "\nNumber of legs: " + legsChr2);
+        System.out.print("\n\nChair 2\nChair name: " + chair2 + "\nStability of chair: " + stableChr2 + "\nNumber of legs: " + legsChr2);
         
-        System.out.print("\n\nChair 3\nChair name: " + chair3 + "\n" + "Stability of chair: " + stableChr3 + "\nNumber of legs: " + legsChr3);
+        System.out.print("\n\nChair 3\nChair name: " + chair3 + "\nStability of chair: " + stableChr3 + "\nNumber of legs: " + legsChr3);
         
         System.out.print("\n\nTotal leg count: ");
         System.out.println(legsChr1+legsChr2+legsChr3);
